@@ -1,1 +1,5 @@
 For our small group project, we will be simulating the ocean tides in Santa Cruz. Tides oscillate from a high state, to a low state, and back to a high state roughly every twelve hours. This pattern results in two high tides and two low tides each twenty-four-hour period. Additionally, the height of the high tide and the depth of the low tide oscillate, such that one high tide and one low tide are more extreme than the other.
+
+Loren Alzona,
+Janerryll Esclanda,
+Lingchen Zeng
